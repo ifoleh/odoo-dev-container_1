@@ -1,4 +1,4 @@
-[![Build and Push Odoo Dev Container](https://github.com/m3r3nix/odoo-dev-container/actions/workflows/docker-publish.yml/badge.svg?branch=v17)](https://github.com/m3r3nix/odoo-dev-container/actions/workflows/docker-publish.yml)
+[![Build and Push Odoo Dev Container](https://github.com/ifoleh/odoo-dev-container_1/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/ifoleh/odoo-dev-container_1/actions/workflows/docker-publish.yml)
 
 # Odoo Development Container for GitHub Codespaces
 
